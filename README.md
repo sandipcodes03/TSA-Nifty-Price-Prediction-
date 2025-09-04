@@ -4,9 +4,6 @@ Please find the link to my kaggle notebook here: https://www.kaggle.com/breenda/
 <hr>
 Goal of this project was to explore the techniques to handle stock data. I started of with visualizing the various parameters to get an idea of the trends in data, seasonality, if its present etc. Next, I explored a few engineering techniques to generate exogenous features. Then I used models such as ARIMA, Autoregressors, LSTMs and RNNs to see which models best predict the target variable.
 
-## Dataset
-https://www.kaggle.com/rohanrao/nifty50-stock-market-data
-
 # 📊 Capstone Project (IIT Guwahati)
 **CAC IIT Guwahati Verified Project** - [**Credentials**](https://certificate.givemycertificate.com/c/e8a16777-3222-42cb-8e01-1f3d2a2522c7)
 
